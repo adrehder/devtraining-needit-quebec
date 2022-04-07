@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicators">
     <pa_indicators action="INSERT_OR_UPDATE">
         <aggregate>1</aggregate>
+        <allow_multi_element_aggregation>false</allow_multi_element_aggregation>
         <benchmarking>false</benchmarking>
+        <calendar/>
+        <calendar_freq/>
         <collect_breakdown_matrix>false</collect_breakdown_matrix>
         <collect_records>true</collect_records>
         <conditions/>
@@ -28,7 +31,7 @@
         <frequency>40</frequency>
         <groups/>
         <has_managed_indicators>false</has_managed_indicators>
-        <id>116</id>
+        <id>119</id>
         <key>false</key>
         <label/>
         <linked_indicator/>

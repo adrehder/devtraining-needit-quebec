@@ -16,6 +16,7 @@
         <sys_updated_on>2019-01-17 17:37:00</sys_updated_on>
         <target display_value="NeedIt: Active Weekly">7ce0ca35db872300c9247bfdae9619cb</target>
         <target_at>20180716</target_at>
+        <target_review>00000000</target_review>
         <value>1000</value>
     </pa_target_values>
 </record_update>
